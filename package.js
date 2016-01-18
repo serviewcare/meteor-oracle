@@ -12,7 +12,7 @@ Package.describe({
 });
 
 Npm.depends({
-	'oracledb': '1.4.0'
+	'oracledb': '1.5.0'
 });
 
 Package.onUse(function(api) {
